@@ -46,10 +46,10 @@ class LinkedList:
 
 if __name__ == "__main__":
     ll = LinkedList()
-    ll.add_node(10)
-    ll.add_node(20)
-    ll.add_node(30)
-    ll.add_node(40)
+    ll.add_node(1)
+    ll.add_node(2)
+    ll.add_node(3)
+    ll.add_node(4)
     
     print("Original list:")
     ll.print_list()
